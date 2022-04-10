@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124722040029",
+    "project_id": "igol1-b5eec",
+    "storage_bucket": "igol1-b5eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124722040029:android:0ea5a8ff37090b4f8c9f34",
+        "android_client_info": {
+          "package_name": "com.igol1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124722040029-t5bkgf1daela3js27anbpdlr7anr9eal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.igol1",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "124722040029-7apaiausifqjqfqeuqfmh41gq55lmj17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKXI7Qf27olf4kAeUC8WnAa29Yo_6ddd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124722040029-7apaiausifqjqfqeuqfmh41gq55lmj17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
